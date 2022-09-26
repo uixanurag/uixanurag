@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @uixanurag
+Hi, I'm Anurag Jayasawal - aka uixanurag 👋
+
+"I make things user friendly" 
+
+I'm a Self Taught Frontend-dev, UX designer, Soloprenuer & A Virtual Assistant!
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on ...
